@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<characters>
+	<character>
+		<name>Altaïr Ibn-La'Ahad</name>
+		<place>Masyaf, Assassin territory</place>
+		<game>Assassin's Creed, Assassin's Creed Revelations</game>
+	</character>
+	<character>
+		<name>Ezio Auditore da Firenze</name>
+		<place>Florence, Republic of Florence</place>
+		<game>Assassin's Creed II, Assassin's Creed Brotherhood, Assassin's Creed Revelations</game>
+	</character>
+	<character>
+		<name>Connor Kenway</name>
+		<place>Kanatahséton, Mohawk Valley</place>
+		<game>Assassin's Creed III</game>
+	</character>
+	<character>
+		<name>Edward Kenway</name>
+		<place>Swansea, England</place>
+		<game>Assassin's Creed IV Black Flag</game>
+	</character>
+	<character>
+		<name>Shay Patrick Cormac</name>
+		<place>New York City, British America</place>
+		<game>Assassin's Creed Rogue</game>
+	</character>
+	<character>
+		<name>Arno Dorian</name>
+		<place>Versailles, Kingdom of France</place>
+		<game>Assassin's Creed Unity</game>
+	</character>
+</characters>

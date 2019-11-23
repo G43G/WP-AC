@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0">
+	<channel>
+		<title>Assassin's Creed Game Series</title>
+		<description>Latest information about the games.</description>
+		<link>http://g43g.byethost10.com/index.html</link>
+		<item>
+			<title>About Assassin's Creed</title>
+			<link>http://g43g.byethost10.com/Games/creed_1.html</link>
+			<description>Assassin's Creed is the first game in the series. It follows the young Assassin, Altaïr on his assassin missions.</description>
+			<author>Bogdan Matorkić</author>
+			<date>
+				<day>13.</day>
+				<month>11.</month>
+				<year>2007</year>
+			</date>
+		</item>
+		<item>
+			<title>About Assassin's Creed II</title>
+			<link>http://g43g.byethost10.com/Games/creed_2.html</link>
+			<description>Follow a new character, Ezio in this sequel, as he fights against injustice brought upon his family.</description>
+			<author>Bogdan Matorkić</author>
+			<date>
+				<day>17.</day>
+				<month>11.</month>
+				<year>2009</year>
+			</date>
+		</item>
+		<item>
+			<title>About Assassin's Creed Brotherhood</title>
+			<link>http://g43g.byethost10.com/Games/creed_B.html</link>
+			<description>Continue your story with Ezio, see the rise of the Assassin Brotherhood in Rome.</description>
+			<author>Bogdan Matorkić</author>
+			<date>
+				<day>16.</day>
+				<month>11.</month>
+				<year>2010</year>
+			</date>
+		</item>
+		<item>
+			<title>About Assassin's Creed Revelations</title>
+			<link>http://g43g.byethost10.com/Games/creed_R.html</link>
+			<description>Every journey must come to an end. So must his. Finish your Assassin story with Ezio, now in Istanbul, revealing its dark secrets and see the return of Altaïr.</description>
+			<author>Bogdan Matorkić</author>
+			<date>
+				<day>15.</day>
+				<month>11.</month>
+				<year>2011</year>
+			</date>
+		</item>
+		<item>
+			<title>About Assassin's Creed III</title>
+			<link>http://g43g.byethost10.com/Games/creed_3.html</link>
+			<description>Step into the heart of the American revolution and help the patriots in their fight for freedom.</description>
+			<author>Bogdan Matorkić</author>
+			<date>
+				<day>30.</day>
+				<month>10.</month>
+				<year>2012</year>
+			</date>
+		</item>
+		<item>
+			<title>About Assassin's Creed IV Black Flag</title>
+			<link>http://g43g.byethost10.com/Games/creed_4.html</link>
+			<description>Fight as the infamous pirate, Edward Kenway, now an assassin in his quests during the golden age of pirates.</description>
+			<author>Bogdan Matorkić</author>
+			<date>
+				<day>29.</day>
+				<month>10.</month>
+				<year>2013</year>
+			</date>
+		</item>
+		<item>
+			<title>About Assassin's Creed Rogue</title>
+			<link>http://g43g.byethost10.com/Games/creed_R2.html</link>
+			<description>Witness the transformation in Shay, once an assassin, now a templar.</description>
+			<author>Bogdan Matorkić</author>
+			<date>
+				<day>11.</day>
+				<month>11.</month>
+				<year>2014</year>
+			</date>
+		</item>
+		<item>
+			<title>About Assassin's Creed Unity</title>
+			<link>http://g43g.byethost10.com/Games/creed_U.html</link>
+			<description>Meet the brand new character, Arno, who will fight during the French revolution.</description>
+			<author>Bogdan Matorkić</author>
+			<date>
+				<day>11.</day>
+				<month>11.</month>
+				<year>2014</year>
+			</date>
+		</item>
+	</channel>
+</rss>
