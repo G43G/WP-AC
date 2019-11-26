@@ -240,21 +240,21 @@ function fillPics(){
 	}
 	
 function show(xmlDoc){
-	document.getElementById('gallery').innerHTML = "";
-	
 	var pictures = document.getElementById('gallery');
 
-	var allPictures = xmlDoc.getElementsByTagName('picture');
-	for(var i=0; i<allPictures.length; i++){
+	if(pictures !== null) {
+		var allPictures = xmlDoc.getElementsByTagName('picture');
+		for(var i=0; i<allPictures.length; i++){
 		
-		var data = allPictures[i].getElementsByTagName('data')[0].childNodes[0].nodeValue;
-		var src = allPictures[i].getElementsByTagName('src')[0].childNodes[0].nodeValue;
-		var alt = allPictures[i].getElementsByTagName('alt')[0].childNodes[0].nodeValue;
+			var data = allPictures[i].getElementsByTagName('data')[0].childNodes[0].nodeValue;
+			var src = allPictures[i].getElementsByTagName('src')[0].childNodes[0].nodeValue;
+			var alt = allPictures[i].getElementsByTagName('alt')[0].childNodes[0].nodeValue;
 		
-		pictures.innerHTML += "<a href='"+src+".jpg' data-lightbox='"+data+"'><img src='"+src+".jpg' alt='"+alt+"'/></a>";		
+			pictures.innerHTML += "<a href='"+src+".jpg' data-lightbox='"+data+"'><img src='"+src+".jpg' alt='"+alt+"'/></a>";		
+		}
+		pictures.style.display = "block";
+		return;
 	}
-	pictures.style.display = "block";
-	return;
 }
 
 /*-------------------------------------------------/GALLERY------------------------------------------------*/
