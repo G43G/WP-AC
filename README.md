@@ -1,5 +1,5 @@
 # WP-AC
-Website from Web Programming Course in ICT
+Website from ICT Web Programming course
 
 TO DO:
 
